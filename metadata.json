@@ -1,0 +1,6 @@
+{
+  "name": "Job Recommendation",
+  "description": "Skills and experience-based job recommendation system with instant matching calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

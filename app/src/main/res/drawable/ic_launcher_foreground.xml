@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,35 C44,31.7 46.7,29 50,29 L58,29 C61.3,29 64,31.7 64,35 L64,39 L60,39 L60,35 C60,33.9 59.1,33 58,33 L50,33 C48.9,33 48,33.9 48,35 L48,39 L44,39 Z" />
+    <!-- Briefcase Main Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,39 L81,39 C84.3,39 87,41.7 87,45 L87,75 C87,78.3 84.3,81 81,81 L27,81 C23.7,81 21,78.3 21,75 L21,45 C21,41.7 23.7,39 27,39 Z" />
+    <!-- Center Accent Line -->
+    <path
+        android:fillColor="#667EEA"
+        android:pathData="M21,55 L87,55 L87,59 L21,59 Z" />
+    <!-- Center Clasp / Badge -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M50,52 C50,50.9 50.9,50 52,50 L56,50 C57.1,50 58,50.9 58,52 L58,62 C58,63.1 57.1,64 56,64 L52,64 C50.9,64 50,63.1 50,62 Z" />
+</vector>
